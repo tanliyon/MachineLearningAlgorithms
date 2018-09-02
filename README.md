@@ -6,10 +6,10 @@ While there are a myriad of libraries available today, I want to make sure that 
 All of the algorithm derivations will be done in Python using Jupyter Notebook.
 
 <h1>To Do</h1>
-<li>1. K-Nearest Neighbout</li>
-<li>2. K-Means</li>
-<li>3. Naive Bayes</li>
-<li>4. Perceptron</li>
-<li>5. Multi-layer Perceptron</li>
-<li>6. Support Vector Machine</li>
-<li>7. Random Forest</li>
+<li>K-Nearest Neighbout</li>
+<li>K-Means</li>
+<li>Naive Bayes</li>
+<li>Perceptron</li>
+<li>Multi-layer Perceptron</li>
+<li>Support Vector Machine</li>
+<li>Random Forest</li>
