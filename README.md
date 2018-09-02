@@ -1,9 +1,7 @@
 <h1>Machine Learning from First Principle</h1>
-A repository to derive all machine learning and deep learning algorithms from first principle.
-
-While there are a myriad of libraries available today, I want to make sure that I understand all of the algorithms fully so that my solutions are robust to changes.
-
-All of the algorithm derivations will be done in Python using Jupyter Notebook.
+<p>A repository to derive all machine learning and deep learning algorithms from first principle.</p>
+<p>While there are a myriad of libraries available today, I want to make sure that I understand all of the algorithms fully so that my solutions are robust to changes.</p>
+<p>All of the algorithm derivations will be done in Python using Jupyter Notebook.</p>
 
 <h1>To Do</h1>
 <li>K-Nearest Neighbout</li>
