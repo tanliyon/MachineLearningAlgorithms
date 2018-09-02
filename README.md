@@ -1,4 +1,4 @@
-<h1>Machine Learning from First Principle<h1>
+<h1>Machine Learning from First Principle</h1>
 A repository to derive all machine learning and deep learning algorithms from first principle.
 
 While there are a myriad of libraries available today, I want to make sure that I understand all of the algorithms fully so that my solutions are robust to changes.
