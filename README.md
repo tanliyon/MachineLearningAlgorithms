@@ -4,7 +4,6 @@
 <p>All of the algorithm derivations will be done in Python using Jupyter Notebook.</p>
 
 <h1>To Do</h1>
-<li>K-Nearest Neighbors</li>
 <li>K-Means</li>
 <li>Naive Bayes</li>
 <li>Perceptron</li>
